@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wiki Demo</string>
+
+    <string name="data">DATA</string>
+    <string name="no_internet">No internet Connection</string>
+    <string name="internet_error_msg">Please turn on internet connection and try again !!!</string>
+    <string name="retry">Please try again!!</string>
+    <string name="enter_serch_query">Enter Serch Query</string>
+    <string name="submit">Submit</string>
+    <string name="next">next</string>
+    <string name="prev">prev</string>
+
+</resources>
